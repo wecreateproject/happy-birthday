@@ -4,9 +4,9 @@ It's your birthday? Prove it and get $100!
 
 This project provides a simple contract and frontend for distributing USDC to people on their birthdays, serving as a straightforward example of integrating Self.
 This example introduces a contract that verifies a user's passport birthday and allows them to claim USDC if their date of birth is within ±1 day of the current date, along with a frontend that integrates this functionality.
-
+   
 ## Setup Instructions
-
+----
 ### Prerequisites
 
 - Node.js and Yarn installed
